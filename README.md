@@ -1,2 +1,2 @@
 # Vanilla-Roleplay
-Base vrpex americano do servidor vanilla rp, configurado por mim @Flavinxx e @GustavinCunha
+Base vrpex americana do servidor vanilla rp, configurado e editada por mim @Flavinxx e @GustavinCunha
